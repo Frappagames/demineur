@@ -1,0 +1,152 @@
+
+Demineur.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+window
+  rotate: false
+  xy: 1, 471
+  size: 577, 550
+  orig: 577, 550
+  offset: 0, 0
+  index: -1
+btn
+  rotate: false
+  xy: 1, 343
+  size: 596, 126
+  orig: 596, 126
+  offset: 0, 0
+  index: -1
+btnOver
+  rotate: false
+  xy: 1, 215
+  size: 596, 126
+  orig: 596, 126
+  offset: 0, 0
+  index: -1
+smallBtn
+  rotate: false
+  xy: 580, 957
+  size: 240, 64
+  orig: 240, 64
+  offset: 0, 0
+  index: -1
+smallBtnOver
+  rotate: false
+  xy: 1, 149
+  size: 240, 64
+  orig: 240, 64
+  offset: 0, 0
+  index: -1
+minesLbl
+  rotate: false
+  xy: 580, 899
+  size: 150, 56
+  orig: 150, 56
+  offset: 0, 0
+  index: -1
+timeLbl
+  rotate: false
+  xy: 822, 965
+  size: 150, 56
+  orig: 150, 56
+  offset: 0, 0
+  index: -1
+tile0
+  rotate: false
+  xy: 1, 75
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+tile1
+  rotate: false
+  xy: 580, 825
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+tile2
+  rotate: false
+  xy: 1, 1
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+tile3
+  rotate: false
+  xy: 75, 75
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+tile4
+  rotate: false
+  xy: 580, 751
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+tile5
+  rotate: false
+  xy: 654, 825
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+tile6
+  rotate: false
+  xy: 75, 1
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+tile7
+  rotate: false
+  xy: 149, 75
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+tile8
+  rotate: false
+  xy: 580, 677
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+tile_bomb
+  rotate: false
+  xy: 654, 751
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+tile_bomb_red
+  rotate: false
+  xy: 149, 1
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+tile_btn
+  rotate: false
+  xy: 580, 603
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+tile_btn_over
+  rotate: false
+  xy: 654, 677
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+tile_flag
+  rotate: false
+  xy: 580, 529
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
